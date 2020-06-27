@@ -27,7 +27,7 @@ body{
 /* HEADER  Start*/
 
 .header{
-    background: url("/img/Layer_16.jpg") center top no-repeat #000;
+    background: url("../img/Layer_16.jpg") center top no-repeat #000;
     background-size: cover;
 }
 .header__top{
