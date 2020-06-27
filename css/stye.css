@@ -350,7 +350,17 @@ body{
         font-weight: 300;
         line-height: 70px;
         letter-spacing: 20px;
-    ы
+    }
+    .instagram__link{
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: 8px;
+        line-height: 75px;
+        color: #f84545;
+        text-decoration: none;
+        display: inline-block;
+        transition-duration: 500ms;
+        transition-property: letter-spacing;
     }
     .header__top{
         grid-template-columns: auto;
