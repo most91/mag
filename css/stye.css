@@ -344,6 +344,14 @@ body{
 
 }
 @media (max-width: 770px){
+    .instagram__title{
+        color: #fff;
+        font-size: 30px;
+        font-weight: 300;
+        line-height: 70px;
+        letter-spacing: 20px;
+    ы
+    }
     .header__top{
         grid-template-columns: auto;
         justify-items: center;
@@ -371,7 +379,7 @@ body{
 }
 
 
- @media (max-width: 580px){
+@media (max-width: 580px){
     .content__wrap{
         grid-template-columns: 1fr;
     }
@@ -384,5 +392,5 @@ body{
         line-height: 30px;
         letter-spacing: 4px;
     }
- }
+}
 
